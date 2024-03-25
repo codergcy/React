@@ -11,3 +11,14 @@ package.json
 默认情况下，会把webpack配置项隐藏到node_modules中，如果想修改，则需要暴露配置项：
 - yarn eject
 ![alt text](image-2.png)
+真实项目中常用的一些修改操作
+- 配置less
+![alt text](image-3.png)
+- 配置别名
+![alt text](image-7.png)
+- 配置预览域名
+![alt text](image-6.png)
+- 配置跨域代理
+![alt text](image-5.png)
+- 配置浏览器兼容
+![alt text](image-4.png)
